@@ -12,3 +12,5 @@
 - [189. Awaited](https://github.com/type-challenges/type-challenges/blob/master/questions/189-easy-awaited/README.ja.md)
 - [268. If](https://github.com/type-challenges/type-challenges/blob/master/questions/268-easy-if/README.ja.md)
 - [533. Concat](https://github.com/type-challenges/type-challenges/blob/master/questions/533-easy-concat/README.ja.md)
+- [898. Includes](https://github.com/type-challenges/type-challenges/blob/master/questions/898-easy-includes/README.ja.md)
+- [3057. Push](https://github.com/type-challenges/type-challenges/blob/master/questions/3057-easy-push/README.md)
