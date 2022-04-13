@@ -14,3 +14,5 @@
 - [533. Concat](https://github.com/type-challenges/type-challenges/blob/master/questions/533-easy-concat/README.ja.md)
 - [898. Includes](https://github.com/type-challenges/type-challenges/blob/master/questions/898-easy-includes/README.ja.md)
 - [3057. Push](https://github.com/type-challenges/type-challenges/blob/master/questions/3057-easy-push/README.md)
+- [3060. Unshift](https://github.com/type-challenges/type-challenges/blob/master/questions/3060-easy-unshift/README.md)
+- [3312. Parameters](https://github.com/type-challenges/type-challenges/blob/master/questions/3312-easy-parameters/README.md)
