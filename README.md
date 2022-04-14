@@ -16,3 +16,5 @@
 - [3057. Push](https://github.com/type-challenges/type-challenges/blob/master/questions/3057-easy-push/README.md)
 - [3060. Unshift](https://github.com/type-challenges/type-challenges/blob/master/questions/3060-easy-unshift/README.md)
 - [3312. Parameters](https://github.com/type-challenges/type-challenges/blob/master/questions/3312-easy-parameters/README.md)
+- [2. Get Return Type](https://github.com/type-challenges/type-challenges/blob/master/questions/2-medium-return-type/README.ja.md)
+- [3. Omit](https://github.com/type-challenges/type-challenges/blob/master/questions/3-medium-omit/README.ja.md)
