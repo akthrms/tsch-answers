@@ -20,3 +20,5 @@
 - [3. Omit](https://github.com/type-challenges/type-challenges/blob/master/questions/3-medium-omit/README.ja.md)
 - [8. Readonly 2](https://github.com/type-challenges/type-challenges/blob/master/questions/8-medium-readonly-2/README.ja.md)
 - [9. Deep Readonly](https://github.com/type-challenges/type-challenges/blob/master/questions/9-medium-deep-readonly/README.ja.md)
+- [10. Tuple to Union](https://github.com/type-challenges/type-challenges/blob/master/questions/10-medium-tuple-to-union/README.ja.md)
+- [12. Chainable Options](https://github.com/type-challenges/type-challenges/blob/master/questions/12-medium-chainable-options/README.ja.md)
