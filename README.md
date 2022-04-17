@@ -22,3 +22,5 @@
 - [9. Deep Readonly](https://github.com/type-challenges/type-challenges/blob/master/questions/9-medium-deep-readonly/README.ja.md)
 - [10. Tuple to Union](https://github.com/type-challenges/type-challenges/blob/master/questions/10-medium-tuple-to-union/README.ja.md)
 - [12. Chainable Options](https://github.com/type-challenges/type-challenges/blob/master/questions/12-medium-chainable-options/README.ja.md)
+- [15. Last of Array](https://github.com/type-challenges/type-challenges/blob/master/questions/15-medium-last/README.ja.md)
+- [16. Pop](https://github.com/type-challenges/type-challenges/blob/master/questions/16-medium-pop/README.ja.md)
