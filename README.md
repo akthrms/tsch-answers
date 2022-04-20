@@ -25,3 +25,4 @@
 - [15. Last of Array](https://github.com/type-challenges/type-challenges/blob/master/questions/00015-medium-last/README.ja.md)
 - [16. Pop](https://github.com/type-challenges/type-challenges/blob/master/questions/00016-medium-pop/README.ja.md)
 - [20. Promise.all](https://github.com/type-challenges/type-challenges/blob/main/questions/00020-medium-promise-all/README.ja.md)
+- [62. Type Lookup](https://github.com/type-challenges/type-challenges/blob/main/questions/00062-medium-type-lookup/README.ja.md)
