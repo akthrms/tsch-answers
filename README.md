@@ -26,3 +26,5 @@
 - [16. Pop](https://github.com/type-challenges/type-challenges/blob/master/questions/00016-medium-pop/README.ja.md)
 - [20. Promise.all](https://github.com/type-challenges/type-challenges/blob/main/questions/00020-medium-promise-all/README.ja.md)
 - [62. Type Lookup](https://github.com/type-challenges/type-challenges/blob/main/questions/00062-medium-type-lookup/README.ja.md)
+- [106. Trim Left](https://github.com/type-challenges/type-challenges/blob/main/questions/00106-medium-trimleft/README.ja.md)
+- [108. Trim](https://github.com/type-challenges/type-challenges/blob/main/questions/00108-medium-trim/README.ja.md)
