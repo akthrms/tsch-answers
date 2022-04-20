@@ -24,3 +24,4 @@
 - [12. Chainable Options](https://github.com/type-challenges/type-challenges/blob/master/questions/12-medium-chainable-options/README.ja.md)
 - [15. Last of Array](https://github.com/type-challenges/type-challenges/blob/master/questions/15-medium-last/README.ja.md)
 - [16. Pop](https://github.com/type-challenges/type-challenges/blob/master/questions/16-medium-pop/README.ja.md)
+- [20. Promise.all](https://github.com/type-challenges/type-challenges/blob/main/questions/00020-medium-promise-all/README.ja.md)
