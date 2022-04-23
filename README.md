@@ -33,3 +33,5 @@
 - [119. ReplaceAll](https://github.com/type-challenges/type-challenges/blob/main/questions/00119-medium-replaceall/README.ja.md)
 - [191. Append Argument](https://github.com/type-challenges/type-challenges/blob/main/questions/00191-medium-append-argument/README.ja.md)
 - [296. Permutation](https://github.com/type-challenges/type-challenges/blob/main/questions/00296-medium-permutation/README.ja.md)
+- [298. Length of String](https://github.com/type-challenges/type-challenges/blob/main/questions/00298-medium-length-of-string/README.ja.md)
+- [459. Flatten](https://github.com/type-challenges/type-challenges/blob/main/questions/00459-medium-flatten/README.ja.md)
