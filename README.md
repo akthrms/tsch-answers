@@ -29,3 +29,5 @@
 - [106. Trim Left](https://github.com/type-challenges/type-challenges/blob/main/questions/00106-medium-trimleft/README.ja.md)
 - [108. Trim](https://github.com/type-challenges/type-challenges/blob/main/questions/00108-medium-trim/README.ja.md)
 - [110. Capitalize](https://github.com/type-challenges/type-challenges/blob/main/questions/00110-medium-capitalize/README.ja.md)
+- [116. Replace](https://github.com/type-challenges/type-challenges/blob/main/questions/00116-medium-replace/README.ja.md)
+- [119. ReplaceAll](https://github.com/type-challenges/type-challenges/blob/main/questions/00119-medium-replaceall/README.ja.md)
