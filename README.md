@@ -38,3 +38,4 @@
 - [00527. Append to object](https://github.com/type-challenges/type-challenges/blob/main/questions/00527-medium-append-to-object/README.ja.md)
 - [00529. Absolute](https://github.com/type-challenges/type-challenges/blob/main/questions/00529-medium-absolute/README.ja.md)
 - [00531. String to Union](https://github.com/type-challenges/type-challenges/blob/main/questions/00531-medium-string-to-union/README.ja.md)
+- [00599. Merge](https://github.com/type-challenges/type-challenges/blob/main/questions/00599-medium-merge/README.ja.md)
