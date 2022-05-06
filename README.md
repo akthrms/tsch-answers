@@ -43,3 +43,4 @@
 - [00645. Diff](https://github.com/type-challenges/type-challenges/blob/main/questions/00645-medium-diff/README.md)
 - [00949. AnyOf](https://github.com/type-challenges/type-challenges/blob/main/questions/00949-medium-anyof/README.md)
 - [01042. IsNever](https://github.com/type-challenges/type-challenges/blob/main/questions/01042-medium-isnever/README.md)
+- [01097. IsUnion](https://github.com/type-challenges/type-challenges/blob/main/questions/01097-medium-isunion/README.md)
