@@ -48,3 +48,4 @@
 - [01367. Remove Index Signature](https://github.com/type-challenges/type-challenges/blob/main/questions/01367-medium-remove-index-signature/README.md)
 - [01978. Percentage Parser](https://github.com/type-challenges/type-challenges/blob/main/questions/01978-medium-percentage-parser/README.md)
 - [02070. Drop Char](https://github.com/type-challenges/type-challenges/blob/main/questions/02070-medium-drop-char/README.md)
+- [02257. MinusOne](https://github.com/type-challenges/type-challenges/blob/main/questions/02257-medium-minusone/README.md)
