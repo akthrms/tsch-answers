@@ -49,3 +49,4 @@
 - [01978. Percentage Parser](https://github.com/type-challenges/type-challenges/blob/main/questions/01978-medium-percentage-parser/README.md)
 - [02070. Drop Char](https://github.com/type-challenges/type-challenges/blob/main/questions/02070-medium-drop-char/README.md)
 - [02257. MinusOne](https://github.com/type-challenges/type-challenges/blob/main/questions/02257-medium-minusone/README.md)
+- [02595. PickByType](https://github.com/type-challenges/type-challenges/blob/main/questions/02595-medium-pickbytype/README.md)
