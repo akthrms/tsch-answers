@@ -51,3 +51,4 @@
 - [02257. MinusOne](https://github.com/type-challenges/type-challenges/blob/main/questions/02257-medium-minusone/README.md)
 - [02595. PickByType](https://github.com/type-challenges/type-challenges/blob/main/questions/02595-medium-pickbytype/README.md)
 - [02688. StartsWith](https://github.com/type-challenges/type-challenges/blob/main/questions/02688-medium-startswith/README.md)
+- [02693. EndsWith](https://github.com/type-challenges/type-challenges/blob/main/questions/02693-medium-endswith/README.md)
