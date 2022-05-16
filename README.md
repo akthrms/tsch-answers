@@ -54,3 +54,4 @@
 - [02693. EndsWith](https://github.com/type-challenges/type-challenges/blob/main/questions/02693-medium-endswith/README.md)
 - [02757. PartialByKeys](https://github.com/type-challenges/type-challenges/blob/main/questions/02757-medium-partialbykeys/README.md)
 - [02759. RequiredByKeys](https://github.com/type-challenges/type-challenges/blob/main/questions/02759-medium-requiredbykeys/README.md)
+- [02793. Mutable](https://github.com/type-challenges/type-challenges/blob/main/questions/02793-medium-mutable/README.md)
