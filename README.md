@@ -1,7 +1,5 @@
 # Answers of [Type Challenges](https://tsch.js.org/)
 
-## Clear
-
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.md
