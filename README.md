@@ -1,4 +1,4 @@
-# DONE
+## DONE
 
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md
@@ -57,3 +57,4 @@
 - https://github.com/type-challenges/type-challenges/blob/main/questions/02946-medium-objectentries/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/03062-medium-shift/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/03188-medium-tuple-to-nested-object/README.md
+- https://github.com/type-challenges/type-challenges/blob/main/questions/03192-medium-reverse/README.md
