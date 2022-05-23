@@ -1,10 +1,10 @@
 # [Type Challenges](https://tsch.js.org/)
 
-### Warm
+## Warm
 
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md
 
-### Easy
+## Easy
 
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.md
@@ -20,7 +20,7 @@
 - https://github.com/type-challenges/type-challenges/blob/main/questions/03060-easy-unshift/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/03312-easy-parameters/README.md
 
-### Medium
+## Medium
 
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/00003-medium-omit/README.md
