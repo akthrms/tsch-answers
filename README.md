@@ -66,3 +66,4 @@
 - https://github.com/type-challenges/type-challenges/blob/main/questions/03062-medium-shift/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/03188-medium-tuple-to-nested-object/README.md
 - https://github.com/type-challenges/type-challenges/blob/main/questions/03192-medium-reverse/README.md
+- https://github.com/type-challenges/type-challenges/blob/main/questions/03196-medium-flip-arguments/README.md
